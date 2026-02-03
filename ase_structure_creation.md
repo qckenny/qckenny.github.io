@@ -21,4 +21,4 @@ from ase.build import graphene, sort
 
 ## Next
 
-Next, let's start coding! [Click here](structure_build_example.ipynb) for the Jupyter Notebook.
+Next, let's start coding! [Click here](structure_build_example.ipynb) for the Jupyter Notebook. [download]({{https://qckenny.github.io/}}{% structure_build_example.ipynb %})
