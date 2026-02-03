@@ -12,12 +12,13 @@ VASP has in-depth documentation on their [wiki](https://vasp.at/wiki/The_VASP_Ma
 ## Inputs
 
 There are four input files that each VASP calculation requires:
-| File        | Purpose           | 
-| ------------- |-------------| 
+
+| File | Purpose | 
+| --- | ------------- | 
 | [INCAR](https://www.vasp.at/wiki/INCAR) | Text file containing all INCAR tags for the calculation. This is where you tell VASP what to do. Certain variables, like `ENCUT`, should be benchmarked for each project.| 
-| [POSCAR](https://vasp.at/wiki/POSCAR)      | Text file containing the atomic structure for your calculation.  We will look at building this today.  |  
-| [KPOINTS](https://vasp.at/wiki/KPOINTS)      | Text file containing the Bloch vectors (k points) used to sample the Brillouin zone. Can be a regular mesh, or a specified path (for plotting the band structure, for example).  The more k points, the more precise (and expensive) the calculation.  This should be benchmarked for each project and calculation type. |   
-| [POTCAR](https://vasp.at/wiki/POTCAR) |   Text file containing the pseudopotential for each atomic species in the same order as in the POSCAR. This is the equivalent of your exchange-correlation functional. These should not be edited. To use hybrid functionals, specify them in the INCAR file. | 
+| [POSCAR](https://vasp.at/wiki/POSCAR) | Text file containing the atomic structure for your calculation.  We will look at building this today.  |  
+| [KPOINTS](https://vasp.at/wiki/KPOINTS) | Text file containing the Bloch vectors (k points) used to sample the Brillouin zone. Can be a regular mesh, or a specified path (for plotting the band structure, for example).  The more k points, the more precise (and expensive) the calculation.  This should be benchmarked for each project and calculation type. |   
+| [POTCAR](https://vasp.at/wiki/POTCAR) | Text file containing the pseudopotential for each atomic species in the same order as in the POSCAR. This is the equivalent of your exchange-correlation functional. These should not be edited. To use hybrid functionals, specify them in the INCAR file. | 
 
 ## Running VASP
 
