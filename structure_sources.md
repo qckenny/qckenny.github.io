@@ -1,5 +1,7 @@
 # Sourcing atomic structures for input
 
+[Navigation Page](navigation_page.md)
+
 There are many ways to source input structures for molecular dynamics (MD) and density functional theory (DFT) calculations. The best approach depends on a few things:
 * Is the structure periodic (e.g. is it a crystal, molecule, or molecular cluster)?
 * Is it a well-known compound?

@@ -1,5 +1,7 @@
 # Getting started with VASP
 
+[Navigation Page](navigation_page.md)
+
 This is a brief overview of the basics of using VASP. 
 
 VASP is software that runs density functional theory (DFT) and ab initio molecular dynamics (AIMD) calculations, usually on periodic structures. It uses a plane-wave basis set to build the electronic wavefunctions.

@@ -1,5 +1,7 @@
 # Creating and editing structures with Atomic Simulation Environment (ASE)
 
+[Navigation Page](navigation_page.md)
+
 [ASE](https://ase-lib.org/) "is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations."
 
 Today we will focus on some python modules that are useful for creating and manipulating atomic structures, but keep in mind that you can also use it for much more (like actually setting up and running calculations)!
