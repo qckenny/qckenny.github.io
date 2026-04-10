@@ -28,7 +28,7 @@ Once the inputs are ready, run VASP from within the directory containing the inp
 
 It's best practice to have a separate directory for each calculation, so you can look back and know the details of each job.
 
-For information on how to run VASP on the available computing clusters in CTCMS, see the [VASP sharepoint page](https://uq.sharepoint.com/teams/6geo7aqm/SitePages/Running%20VASP.aspx) (login required).
+For information on how to run VASP on the available computing clusters in CTCMS, see our [VASP loop page](https://uq.sharepoint.com/:fl:/r/teams/6geo7aqm/Shared%20Documents/VASP/Running%20VASP%20on%20each%20cluster.loop?d=w821ea05106d340e5ac1d8ecc27060955&csf=1&web=1&e=Mpec4i&nav=cz0lMkZ0ZWFtcyUyRjZnZW83YXFtJmQ9YiUyMUlpOVZxUHV4eUVLYW11SW1UV2hnYklvMzkwRnpOdjFLbVJQSE9TdDVBSm84cTVwSTZrQzdSS05Gb0VVcnVRdHomZj0wMVFUUzdGRFNSVUFQSUZVWUc0VkFLWUhNT1pRVFFNQ0tWJmM9JTJGJmE9TG9vcEFwcCZwPSU0MGZsdWlkeCUyRmxvb3AtcGFnZS1jb250YWluZXI%3D) (login required).
 
 ## Outputs
 
